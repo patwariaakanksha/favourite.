@@ -1,0 +1,11 @@
+food
+1.noodles
+2.manchurian
+3.soya chilli
+4.franky
+5.vada pav
+6.pav bhaji
+7.pani puri
+8.chinese bhel
+9.sandwhich
+10.pizza
